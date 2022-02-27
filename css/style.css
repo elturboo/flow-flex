@@ -454,6 +454,9 @@ footer p {
   .navbar-light .navbar-toggler-icon {
     background-image: url("../images/toggle.svg");
   }
+  .for-desktop {
+    display: none;
+  }
 }
 
 /* ipad */
