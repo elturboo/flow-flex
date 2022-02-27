@@ -455,7 +455,7 @@ footer p {
     background-image: url("../images/toggle.svg");
   }
   .for-desktop {
-    display: none;
+    display: none !important;
   }
 }
 
